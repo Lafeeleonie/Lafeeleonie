@@ -2,7 +2,10 @@
 
 [English version](README_EN.md)
 
-# 𝕷𝖆𝖋𝖊́𝖊𝖑𝖊́𝖔𝖓𝖎𝖊
+# 
+<p align="center">
+  <img src="nom.png" alt="Laféeléonie">
+</p>
 
 ### Code. Science. Machines. Force. Désir. Mauvaises idées étonnamment fonctionnelles.
 

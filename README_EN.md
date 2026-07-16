@@ -4,23 +4,18 @@
 
 # 𝕷𝖆𝖋𝖊́𝖊𝖑𝖊́𝖔𝖓𝖎𝖊
 
-### Code. Science. Machines. Strength. Desire. Questionable ideas that somehow work.
+### Code. Science. Machines. Strength. Desire. Bad ideas that work surprisingly well.
 
 <br>
 
-> Winegrower by day, chaotic maker by night. Accidentally got a PhD in physics. I lift heavy things, code, break things, fix them worse, then somehow make it work.
-
-<br>
-
-> I like systems that resist a little before they give in.<br>
-> Temperamental machines, dirty data and problems nobody wants to touch tend to end up in my hands.
+> Winegrower by day, chaotic maker by night. I got a PhD in physics almost by accident. I lift heavy things, write code, break things, occasionally make them worse while fixing them — and somehow still get them working.
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-Interpreted%20with%20insistence-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Close%20to%20the%20metal-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Until%20it%20obeys-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Form%20matters-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-The%20hardware%20answers-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-The%20signals%20confess-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -28,23 +23,11 @@
 
 ## `> whoami`
 
-I build tools, machines and systems designed to solve problems that had not always realised they were problems yet.
+I build tools, machines and systems to solve problems that had not yet realised they were problems.
 
-I hold a PhD in physics, became a developer out of necessity, remain an experimentalist by temperament and turned into a maker because I am chronically unable to accept that anything is “not repairable”.
+I hold a PhD in physics, became a developer out of necessity, remain an experimentalist by temperament and turned into a maker because I am chronically unable to accept that an object might be beyond repair.
 
-My playground lies somewhere between:
-
-- physics and fluid mechanics;
-- scientific computing and numerical simulation;
-- experimental instrumentation;
-- software development;
-- artificial intelligence;
-- embedded electronics;
-- server administration;
-- mechanical design;
-- automation;
-- 3D printing;
-- and that delightfully questionable area where an absurd idea suddenly starts working.
+My natural habitat lies somewhere between thermomechanics, materials, instrumentation, scientific computing, signal processing, electronics and that delightfully questionable zone where an absurd idea suddenly starts working.
 
 I am not loyal to any technology. I choose whichever one will do what I ask with the least resistance.
 
@@ -54,333 +37,140 @@ When it still resists, I take it apart.
 
 ---
 
-## `> skills --verbose`
+## `> skills --evidence`
 
 <details open>
-<summary><strong>Scientific research and PhD training</strong></summary>
+<summary><strong>Scientific research and open-ended problems</strong></summary>
 
 <br>
 
-A PhD does not merely teach a subject. It teaches you how to remain functional while facing a complex, poorly defined, partially documented problem that lasts long enough to develop a personality of its own.
+My PhD taught me how to remain functional while facing a complex, partially documented problem that lasts long enough to develop a personality of its own.
 
-Skills acquired and consolidated:
+I can notably:
 
-- defining scientific questions;
-- literature reviews and critical reading;
-- turning intuition into testable hypotheses;
-- designing experimental protocols;
-- selecting relevant variables and validation criteria;
-- physical modelling;
-- numerical simulation;
-- processing, cleaning and interpreting data;
-- uncertainty analysis;
-- comparing models, simulations and experiments;
-- identifying bias, limitations and error sources;
-- reproducibility;
-- long-form scientific writing;
-- summarising complex results;
-- oral presentation and evidence-based defence;
-- autonomy on long-term projects;
-- coping with experimental failure;
-- methodically solving problems nobody knows the answer to yet.
+- turn a vague question into testable hypotheses;
+- read the literature without mistaking a conclusion for a promise;
+- design an experimental protocol and its validation criteria;
+- work with imperfect data without forcing them to confess what they do not know;
+- estimate uncertainties and document limitations;
+- compare theory, simulation, experiment and observation;
+- defend a result while recognising when it remains a hypothesis;
+- preserve the coherence of a project over several years;
+- write, present and respond to scientific review.
 
-I can read a scientific paper, identify what it actually proves, what it assumes, what it conveniently forgets and what its abstract is quietly trying to hide under the carpet.
-
-I can also spend several days wondering why an experiment refuses to behave, only to discover that a cable, a unit or a boundary condition had staged a hostile takeover.
+I can spend several days trying to understand why an experiment refuses to behave as expected, only to discover that a cable, a unit or a boundary condition had taken control of the project.
 
 </details>
 
 <details open>
-<summary><strong>Physics, fluid mechanics and scientific computing</strong></summary>
+<summary><strong>Thermal science, mechanics and materials</strong></summary>
 
 <br>
 
-Familiar fields include:
+My work has given me solid experience in:
 
-- conservation laws;
-- fluid mechanics;
-- Navier–Stokes equations;
-- diffusion, convection and viscosity;
-- laminar and turbulent flows;
-- pressure losses;
-- internal and external flows;
-- dimensional analysis;
-- transport and balance equations;
-- numerical methods;
-- signal processing;
-- statistical analysis;
-- measurement processing;
-- experimental uncertainty.
+- applied thermodynamics and energy balances;
+- heat transfer through conduction, convection and radiation;
+- thermomechanics and thermally induced stresses;
+- mechanics and fracture of brittle materials;
+- four-point bending;
+- exergy analysis;
+- microscopy and fracture-surface analysis;
+- probabilistic failure models;
+- sizing thermal and hydraulic components.
 
-**Numerical simulation and CFD:**
+I particularly enjoy the moment when a temperature field, a mechanical stress and a crack finally decide to tell the same story.
 
-- geometry preparation and simplification;
-- mesh generation and assessment;
-- physical model selection;
-- initial and boundary conditions;
-- numerical parameter tuning;
-- convergence monitoring;
-- velocity, pressure and derived-field analysis;
-- comparison between numerical results and experiments;
-- diagnosing simulations that converge beautifully towards complete nonsense.
+</details>
 
-**Instrumentation:**
+<details open>
+<summary><strong>Experimental work and instrumentation</strong></summary>
 
-- analogue and digital sensors;
-- pressure and differential-pressure sensors;
-- probes and measurement taps;
-- Pitot tubes;
-- data acquisition;
-- calibration;
-- filtering;
-- zero correction;
-- drift analysis;
-- metrological validation.
+<br>
+
+- designing, taking over and improving experimental test rigs;
+- acoustic emission and non-destructive testing;
+- force, strain, temperature and heat flux measurements;
+- thermocouples, pyrometry and infrared cameras;
+- synchronised or continuous multi-channel acquisition;
+- reference tests, background-noise measurements and coupling checks;
+- analogue and digital filtering;
+- diagnosing interference, drift, echoes and saturation;
+- designing supports, jigs and control modules;
+- uncertainty analysis and repeatability.
 
 I trust measurements.
 
-I simply trust them more after checking the sensor, assembly, zero, range, power supply, temperature and psychological state of the person who collected them.
+I simply trust them more after checking the sensor, assembly, zero, range, synchronisation, power supply and the general mood of the acquisition chain.
 
 </details>
 
 <details open>
-<summary><strong>LaTeX, scientific typography and technical documents</strong></summary>
+<summary><strong>Numerical simulation and scientific computing</strong></summary>
 
 <br>
 
-LaTeX is not a complicated way to write text.
+- thermal and thermomechanical models;
+- geometries, meshes and surface groups;
+- temperature-dependent properties;
+- boundary conditions, heat exchanges and loads;
+- non-linear thermal analysis and static mechanics;
+- parametric studies;
+- simulation-to-experiment comparison;
+- post-processing of fields, stresses and failure probabilities.
 
-It is a reasonable way to prevent software from deciding that a heading should suddenly change font, an equation deserves to cross the margin or a figure would be happier three pages away from where it is referenced.
+Tools that have genuinely been part of my work:
 
-Skills include:
+- COMSOL Multiphysics;
+- Salome-Meca;
+- Code_Aster;
+- EES;
+- scientific Python.
 
-- reports, dissertations, theses and long documents;
-- `article`, `report`, `book` and custom classes;
-- advanced document structures;
-- custom commands and environments;
-- headers, footers and chapter styles;
-- advanced mathematics;
-- equation alignment and numbering;
-- cross-references;
-- glossaries, indexes and acronym lists;
-- BibLaTeX and Biber bibliographies;
-- professional tables with `booktabs`;
-- numerical columns and units with `siunitx`;
-- TikZ and PGFPlots graphics;
-- scientific diagrams;
-- figure placement and control;
-- captions, subfigures and floats;
-- automated layout;
-- Beamer presentations;
-- reproducible documents generated from data.
-
-I probably care too much about aligned decimals, consistent non-breaking spaces and presentations that do not look as though they were designed during a PowerPoint hostage situation.
+I can also recognise a simulation that converges very neatly towards nonsense. It is a more useful skill than it sounds.
 
 </details>
 
 <details open>
-<summary><strong>Software development</strong></summary>
+<summary><strong>Python, data and machine learning</strong></summary>
 
 <br>
 
-I design complete applications, from the initial idea to deployment.
+I use Python to understand physical phenomena, automate thankless tasks and make data fit for human company.
 
-**Languages and environments:**
+- NumPy, pandas, SciPy and Matplotlib;
+- importing, cleaning, converting and visualising measurements;
+- regression, interpolation and feature computation;
+- FFTs, filters, wavelet transforms and sliding windows;
+- PCA, clustering and comparison of validity indices;
+- scikit-learn;
+- PyTorch and one-dimensional convolutional autoencoders;
+- event detection through reconstruction error;
+- pipelines designed for acquisitions reaching several hundred gigabytes;
+- MariaDB/MySQL to make experimental series accessible and queryable.
 
-- Python;
-- embedded C and C++;
-- SQL;
-- Bash;
-- PowerShell;
-- HTML and CSS when the interface requires a minimum amount of discipline;
-- Git and GitHub;
-- virtual environments;
-- development on Windows and Linux.
-
-**Applications and architecture:**
-
-- Streamlit interfaces;
-- separation between UI, business logic and data access;
-- modular applications;
-- input validation;
-- error handling;
-- logging;
-- automated document generation;
-- PDF, CSV and domain-specific exports;
-- maintenance and administration scripts;
-- task automation;
-- unit testing;
-- refactoring and improvement of existing code;
-- integration with databases and network services.
-
-I enjoy turning a pile of files, spreadsheets and manual procedures into a coherent application that finally does what it is told.
+I do not consider a model to be working merely because it displays a flattering score. I want to know what it learned, when it fails and which part of the noise it secretly mistakes for a revelation.
 
 </details>
 
 <details open>
-<summary><strong>Databases and data management</strong></summary>
+<summary><strong>LaTeX, typography and technical documents</strong></summary>
 
 <br>
 
-- MariaDB and MySQL;
-- SQLite;
-- relational modelling;
-- schema design;
-- foreign keys and referential integrity;
-- migrations;
-- backup and restoration;
-- complex queries;
-- data import and cleaning;
-- historical records;
-- dataset generation;
-- integration between applications and existing databases.
+LaTeX is not, to me, a complicated way to write text. It is a reasonable way to prevent software from deciding that an equation deserves to cross the margin.
 
-I prefer properly structured data.
+- manuscripts, reports, papers, posters and presentations;
+- long documents structured through included parts;
+- LuaLaTeX, custom commands and environments;
+- page styles, headings, tables and units;
+- BibLaTeX and Biber;
+- cross-references, indexes and nomenclatures;
+- TikZ, CircuitikZ, PGFPlots and data-driven graphics;
+- Beamer and custom classes;
+- figure externalisation and automated compilation.
 
-I can still work with the others: late, badly named, duplicated and faintly ashamed of their own existence.
-
-</details>
-
-<details open>
-<summary><strong>Artificial intelligence and computer vision</strong></summary>
-
-<br>
-
-- dataset creation, cleaning and documentation;
-- pre-labelling;
-- manual validation;
-- image classification;
-- multi-label classification;
-- supervised learning;
-- transfer learning;
-- data augmentation;
-- training, validation and test splits;
-- false-positive and false-negative analysis;
-- confusion matrices;
-- precision, recall and F1 score;
-- decision-threshold tuning;
-- local GPU training;
-- architecture comparison;
-- integration of models into usable applications.
-
-Architectures and model families used include:
-
-- ConvNeXt;
-- ResNet;
-- EfficientNet;
-- modern vision models;
-- local and remote language models;
-- pipelines combining structured data, images and text.
-
-I do not consider a model to “work” merely because it displays a flattering percentage.
-
-I want to know what it actually learned, under which conditions it fails and how long it will take before deciding that a leaf, a wall and a coffee stain belong to the same class.
-
-</details>
-
-<details>
-<summary><strong>Electronics and embedded systems</strong></summary>
-
-<br>
-
-- Arduino;
-- ATtiny;
-- ESP32;
-- AVR microcontrollers;
-- PlatformIO;
-- ISP programming;
-- serial communication;
-- SPI;
-- I²C;
-- analogue and digital sensors;
-- relays, MOSFETs and load control;
-- power supply and regulation;
-- filtering and decoupling;
-- timers;
-- state machines;
-- sleep modes and low-power design;
-- oscilloscope and multimeter diagnostics;
-- soldering and board repair.
-
-I also design printed circuit boards with KiCad:
-
-- electronic schematics;
-- component selection;
-- footprints;
-- placement;
-- routing;
-- ground planes;
-- design rules;
-- Gerber files;
-- bills of materials;
-- preparation for industrial manufacturing.
-
-Breadboard prototypes have their charm.
-
-Well-designed PCBs simply have better posture.
-
-</details>
-
-<details>
-<summary><strong>Linux, servers and self-hosting</strong></summary>
-
-<br>
-
-- Linux administration;
-- Debian and Ubuntu;
-- Docker and Docker Compose;
-- container deployment and rebuilding;
-- systemd services;
-- reverse proxies;
-- local networks;
-- secure remote access;
-- Tailscale;
-- port management;
-- disk shares and mounts;
-- permissions and users;
-- service monitoring;
-- fault diagnosis;
-- self-hosted server maintenance;
-- local and remote backups;
-- Restic, Backrest and Rsync;
-- database backup and restoration;
-- disaster-recovery planning.
-
-I prefer hosting my own services.
-
-Not out of excessive distrust, but because “the cloud” is often somebody else’s computer, bundled with a subscription and a disturbingly strong interest in my data.
-
-An untested backup is not a backup.
-
-It is a religious belief stored on a hard drive.
-
-</details>
-
-<details>
-<summary><strong>Mechanical design, CAD and fabrication</strong></summary>
-
-<br>
-
-- parametric modelling;
-- functional part design;
-- electronic enclosures;
-- supports and adapters;
-- assemblies;
-- tolerances and functional clearances;
-- integration of bearings, screws, inserts and components;
-- preparation for 3D printing;
-- rapid prototyping and iteration;
-- FDM manufacturing;
-- material selection;
-- orientation optimisation;
-- support management;
-- multicolour parts;
-- mechanical strength;
-- dimensional fitting.
-
-I do not only print decorative objects.
-
-I mostly print parts that shops stubbornly refuse to sell because they failed to anticipate my very specific problem.
+I probably care too much about aligned decimals, non-breaking spaces and making sure a presentation does not look like a PowerPoint hostage situation.
 
 </details>
 
@@ -389,19 +179,19 @@ I mostly print parts that shops stubbornly refuse to sell because they failed to
 
 <br>
 
-I have designed lessons, prerequisite reviews, exercise sets, tests, make-up assessments, detailed solutions and laboratory material in physics, chemistry and mathematics.
+I have designed lessons, revision material, exercise sets, tests, resit assessments, detailed solutions and laboratory handouts in physics, chemistry and mathematics.
 
-My work has notably included:
+My work has included:
 
 - learning progressions adapted to the students' level;
-- graduated exercises and multiple test variants;
-- laboratory-work solutions;
+- progressively graded exercises and multiple versions of the same assessment;
+- solutions and write-ups for practical work;
 - individual progress reports;
-- automated generation of individualised tests with Python and LaTeX: 35 versions sharing the same structure and level of difficulty, with questions and formulae selected without repetition, randomised order and unique numerical data for each paper;
+- automated generation of individualised assessments with Python and LaTeX: 35 versions with the same structure and level of difficulty, while questions and formulae are drawn without replacement, their order is randomised and each paper receives its own numerical data;
 - simultaneous generation of a table containing the expected numerical answers;
 - scientific communication in both French and English.
 
-When answers began circulating a little too efficiently, I chose technological escalation: thirty-five students, thirty-five papers, and suddenly nobody's neighbour was particularly useful.
+When answers started circulating a little too efficiently, I chose technological escalation: thirty-five students, thirty-five papers, and suddenly nobody had a particularly useful neighbour.
 
 My students thought I was mad.
 
@@ -409,7 +199,30 @@ They were not entirely wrong.
 
 Pedagogy through algorithmic deterrence.
 
-Explaining a complex result without distorting it is a form of engineering. The raw material can sometimes resist more stubbornly than ceramics.
+Explaining a complex result without distorting it is a form of engineering. The raw material can sometimes prove more resistant than ceramic.
+
+</details>
+
+<details>
+<summary><strong>Personal workshop: code, electronics, servers and fabrication</strong></summary>
+
+<br>
+
+Outside the laboratory, I naturally continue to make my own life more complicated:
+
+- Python applications, Streamlit interfaces and SQL databases;
+- automation, exports, documentation and taking over existing projects;
+- Arduino, ESP32, AVR, sensors, relays, MOSFETs, SPI and I²C;
+- schematics and printed circuit boards designed with KiCad;
+- Linux, Docker, services, networks, remote access and self-hosting;
+- backups with Restic, Backrest and Rsync;
+- parametric CAD, FreeCAD, OpenSCAD and FDM 3D printing;
+- functional parts, enclosures, supports and adapters;
+- image classification and integration of models into usable tools.
+
+An undocumented project can work perfectly well.
+
+Once. On its author's machine. During a full moon.
 
 </details>
 
@@ -419,17 +232,15 @@ Explaining a complex result without distorting it is a form of engineering. The 
 
 I spend a great deal of time in front of screens, but I refuse to let my body become a mere keyboard stand.
 
-I practise strength training with the same logic I apply elsewhere: method, progression, analysis, repetition and a mild obsession with numbers.
-
 | Lift | One-rep max |
 |:--|--:|
 | Deadlift | **170 kg** |
 | Squat | **160 kg** |
 | Bench press | **105 kg** |
 
-I enjoy the simple honesty of a heavy bar that refuses to negotiate.
+I like the blunt honesty of a heavy bar that refuses to negotiate.
 
-Code sometimes accepts a workaround.
+Code will sometimes accept a workaround.
 
 Gravity rarely does.
 
@@ -437,48 +248,21 @@ Gravity rarely does.
 
 ## `> games`
 
-I play for the same reasons I build things: to understand a system, test its limits, optimise whatever can be optimised and discover how far a mechanic can be pushed before it breaks.
+I play for the same reasons I build things: to understand a system, test its limits and optimise whatever can be optimised.
 
-I particularly enjoy:
+I enjoy role-playing games, dark or morally ambiguous settings, strategy, demanding combat and apparently harmless decisions that come back to bite several hours later.
 
-- role-playing games;
-- dark or morally ambiguous settings;
-- systems rich in interaction;
-- strategy;
-- character and resource optimisation;
-- demanding combat;
-- tank roles, because taking the hits while everyone else panics has a certain elegance;
-- games in which an apparently harmless decision comes back to bite several hours later.
+I willingly choose the tank role. Taking the hits while everyone else runs around has a certain elegance.
 
-I can spend far too long optimising a build for a few extra percentage points.
-
-I consider this applied research.
+I can spend far too long optimising a build for a few extra percentage points. I consider that applied research.
 
 ---
 
 ## `> philosophy`
 
-I am interested in how machines work, but also in what drives human beings to build them.
+I am interested in how machines work, but also in what drives human beings to build them: the meaning of life, freedom, death, identity, consciousness, desire and the relationship between body and mind.
 
-The meaning of life.
-
-Freedom.
-
-Death.
-
-Desire.
-
-Identity.
-
-Consciousness.
-
-The relationship between body and mind.
-
-The way we choose what deserves our time while knowing that time is limited.
-
-I do not believe life needs to be clean, well-behaved or perfectly coherent to be valuable.
-
-I believe more strongly in intensity, curiosity, creation, transmission and the ability to give form to whatever moves through us.
+I do not believe life has to be neat, sensible or perfectly coherent to have value. I believe more strongly in intensity, curiosity, creation, transmission and the ability to give form to whatever moves through us.
 
 I enjoy taking the great questions seriously, then interrupting the discussion to repair a pump, compile a program or lift something unreasonably heavy.
 
@@ -488,13 +272,9 @@ Metaphysics occasionally benefits from being practised with a 13 mm spanner in h
 
 ## `> desire`
 
-Sex interests me as language, vertigo, power play, physical need and the strange meeting point between biology, imagination and vulnerability.
+Sex interests me as language, vertigo, power play, physical need and a strange meeting point between biology, imagination and vulnerability.
 
-I find it fascinating that beings capable of calculating, designing, predicting and rationalising can lose a considerable amount of dignity because of a look, a voice or a sufficiently well-placed idea.
-
-I do not entirely separate intelligence from desire.
-
-I like what stimulates the mind, what resists, what demands understanding, what requires precision — and what eventually gives in under properly applied pressure.
+I do not entirely separate intelligence from desire. I like what stimulates the mind, what resists, what compels understanding, what demands precision — and what occasionally gives in under properly applied pressure.
 
 This profile is still technically about code.
 
@@ -503,8 +283,6 @@ Technically.
 ---
 
 ## `> method`
-
-My usual process looks something like this:
 
 ```text
 Notice a problem
@@ -517,8 +295,6 @@ Find it too expensive, too limited or too ugly
         ↓
 Say “it cannot be that complicated”
         ↓
-Create a Git repository
-        ↓
 Violently underestimate the project
         ↓
 Learn several unexpected technologies
@@ -526,51 +302,9 @@ Learn several unexpected technologies
 Finish it anyway
 ```
 
-I favour:
+I favour understandable solutions, repairable systems, open formats, restorable backups, hardware that can be taken apart, code that remains readable six months later and ideas that can be tested.
 
-- understandable solutions;
-- repairable systems;
-- open formats;
-- self-hosted tools;
-- useful documentation;
-- restorable backups;
-- hardware that can be opened;
-- code that remains readable six months later;
-- ideas that can be tested rather than opinions that can merely be repeated.
-
-I am less fond of:
-
-- subscriptions for elementary functions;
-- applications that require an account to switch on a light;
-- unnecessary dependencies;
-- interfaces that hide important features;
-- data trapped inside inaccessible services;
-- machines that claim they cannot be repaired;
-- silent errors;
-- Dupont wires that disconnect when merely observed;
-- certainties that have never met contradictory evidence.
-
----
-
-## `> working philosophy`
-
-I am not trying to master every existing technology.
-
-I am trying to understand the ones I need quickly enough to build what I have in mind.
-
-Sometimes that means developing an application.
-
-Sometimes designing a circuit board.
-
-Sometimes calculating a flow, printing a part, configuring a server, soldering a sensor and writing forty pages of documentation for the same project.
-
-I do not specialise in a tool.
-
-I specialise in the moment when somebody says:
-
-> “That would be useful, but I do not think it is possible.”
-
-That is usually when I start wanting to play.
+I have less patience for subscriptions for basic functions, silent errors, Dupont wires that disconnect when you merely look at them and certainties that have never met contradictory evidence.
 
 ---
 
@@ -583,21 +317,9 @@ The others probably began with:
 - “technically…”;
 - “in theory…”;
 - “I might have an idea…”;
-- or the particularly dangerous:<br>
-  **“Wait. Do not touch anything.”**
+- or the particularly dangerous: **“Wait, do not touch anything.”**
 
-This profile may contain:
-
-- code;
-- equations;
-- circuit boards;
-- simulations;
-- printed parts;
-- self-hosted servers;
-- unnecessarily long reasoning;
-- heavy weights;
-- a few existential considerations;
-- and a slight tendency to find constraints exciting.
+This profile may contain code, equations, circuit boards, simulations, 3D-printed parts, self-hosted servers, heavy weights, a few existential considerations and a slight tendency to find constraints exciting.
 
 Use at your own risk.
 

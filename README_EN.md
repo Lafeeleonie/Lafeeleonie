@@ -385,34 +385,31 @@ I mostly print parts that shops stubbornly refuse to sell because they failed to
 </details>
 
 <details>
-<summary><strong>Teaching, documentation and knowledge transfer</strong></summary>
+<summary><strong>Teaching, knowledge transfer and algorithmic deterrence</strong></summary>
 
 <br>
 
-- technical writing;
-- detailed READMEs;
-- installation procedures;
-- maintenance documentation;
-- schematics;
-- dimensioned drawings;
-- scientific reports;
-- presentations;
-- explaining complex concepts;
-- turning a personal project into something reproducible.
+I have designed lessons, prerequisite reviews, exercise sets, tests, make-up assessments, detailed solutions and laboratory material in physics, chemistry and mathematics.
 
-I have also designed courses, exercises, practical-work corrections and assessments in physics, chemistry and mathematics.
+My work has notably included:
 
-When answers started travelling a little too efficiently, I chose technological escalation: a Python and LaTeX generator producing 35 individual papers with the same assessment structure, but sampled and reordered questions, different numerical values, and a matching table of expected numerical solutions.
+- learning progressions adapted to the students' level;
+- graduated exercises and multiple test variants;
+- laboratory-work solutions;
+- individual progress reports;
+- automated generation of individualised tests with Python and LaTeX: 35 versions sharing the same structure and level of difficulty, with questions and formulae selected without repetition, randomised order and unique numerical data for each paper;
+- simultaneous generation of a table containing the expected numerical answers;
+- scientific communication in both French and English.
 
-Thirty-five pupils, thirty-five papers, no particularly useful neighbour. My pupils thought I was mad. They were not entirely wrong. Pedagogy through algorithmic deterrence.
+When answers began circulating a little too efficiently, I chose technological escalation: thirty-five students, thirty-five papers, and suddenly nobody's neighbour was particularly useful.
 
-An undocumented project can work perfectly well.
+My students thought I was mad.
 
-Once.
+They were not entirely wrong.
 
-On its author’s machine.
+Pedagogy through algorithmic deterrence.
 
-During a full moon.
+Explaining a complex result without distorting it is a form of engineering. The raw material can sometimes resist more stubbornly than ceramics.
 
 </details>
 

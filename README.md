@@ -175,25 +175,29 @@ J'accorde une importance probablement excessive à l'alignement des décimales, 
 </details>
 
 <details>
-<summary><strong>Enseignement et transmission</strong></summary>
+<summary><strong>Enseignement, transmission et dissuasion algorithmique</strong></summary>
 
 <br>
 
 J'ai conçu des cours, rappels, séries d'exercices, contrôles, rattrapages, corrigés et supports de travaux pratiques en physique-chimie et en mathématiques.
 
-Le corpus montre notamment :
+J'ai notamment travaillé sur :
 
-- progressions adaptées au niveau ;
-- exercices gradués et variantes de sujets ;
-- corrections expérimentales ;
-- bilans individualisés ;
-- génération automatisée de contrôles individualisés avec Python et LaTeX : 35 versions, une même structure d'évaluation, des questions et formules tirées et réordonnées, ainsi que des valeurs numériques différentes ;
-- génération simultanée d'un tableau contenant les solutions numériques attendues ;
-- communication scientifique en français et en anglais.
+- des progressions adaptées au niveau ;
+- des exercices gradués et des variantes de sujets ;
+- des corrections de travaux pratiques ;
+- des bilans individualisés ;
+- la génération automatisée de contrôles individualisés avec Python et LaTeX : 35 versions conservant la même structure et le même niveau de difficulté, avec questions et formules tirées sans répétition, ordre aléatoire et données numériques propres à chaque sujet ;
+- la production simultanée d'un tableau contenant les solutions numériques attendues ;
+- la communication scientifique en français et en anglais.
 
-Lorsque les réponses ont commencé à circuler un peu trop efficacement, j'ai choisi l'escalade technologique : trente-cinq élèves, trente-cinq sujets, aucun voisin vraiment utile.
+Lorsque les réponses ont commencé à circuler un peu trop efficacement, j'ai choisi l'escalade technologique : trente-cinq élèves, trente-cinq sujets, et soudain plus aucun voisin vraiment utile.
 
-Mes élèves me trouvaient folle. Ils n'avaient pas entièrement tort. La pédagogie par la dissuasion algorithmique.
+Mes élèves me trouvaient folle.
+
+Ils n'avaient pas entièrement tort.
+
+La pédagogie par la dissuasion algorithmique.
 
 Expliquer un résultat complexe sans le déformer est une forme d'ingénierie. Le matériau de départ résiste parfois davantage qu'une céramique.
 

@@ -199,7 +199,7 @@ They were not entirely wrong.
 
 Pedagogy through algorithmic deterrence.
 
-Explaining a complex result without distorting it is a form of engineering. The raw material can sometimes prove more resistant than ceramic.
+Explaining a complex result without distorting it is a form of engineering.
 
 </details>
 

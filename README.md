@@ -199,7 +199,7 @@ Ils n'avaient pas entièrement tort.
 
 La pédagogie par la dissuasion algorithmique.
 
-Expliquer un résultat complexe sans le déformer est une forme d'ingénierie. Le matériau de départ résiste parfois davantage qu'une céramique.
+Expliquer un résultat complexe sans le déformer est une forme d'ingénierie.
 
 </details>
 

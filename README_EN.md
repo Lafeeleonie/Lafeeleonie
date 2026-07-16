@@ -2,7 +2,7 @@
 
 [Version française](README.md)
 
-# 𝕷𝖆𝖋𝖊́𝖊𝖑é𝖔𝖓𝖎𝖊
+# 𝕷𝖆𝖋𝖊́𝖊𝖑𝖊́𝖔𝖓𝖎𝖊
 
 ### Code. Science. Machines. Strength. Desire. Questionable ideas that somehow work.
 

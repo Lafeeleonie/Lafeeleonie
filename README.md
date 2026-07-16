@@ -1,20 +1,21 @@
 <div align="center">
 
+[English version](README_EN.md)
+
 # 𝕷𝖆𝖋𝖊́𝖊𝖑𝖊𝖔𝖓𝖎𝖊
 
-### Code. Électronique. Machines. Science. Mauvaises idées étonnamment fonctionnelles.
+### Code. Science. Machines. Force. Désir. Mauvaises idées étonnamment fonctionnelles.
 
 <br>
 
-> J’aime les systèmes qui résistent un peu avant de céder.
-> Les machines capricieuses, les données malpropres et les problèmes que personne n’a envie de toucher ont tendance à finir entre mes mains.
+> Viticulteur le jour, maker chaotique la nuit. J'ai obtenu un doctorat en physique presque par accident. Je soulève des choses lourdes, je code, je casse des choses, je les répare parfois moins bien — puis, d'une manière ou d'une autre, ça fonctionne.
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-Interprété%20avec%20insistance-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Proche%20du%20matériel-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Jusqu'à%20ce%20qu'il%20obéisse-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Conteneurisé%20avec%20fermeté-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Interprété%20avec%20insistance-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-La%20forme%20compte-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Le%20matériel%20répond-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Les%20signaux%20avouent-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -22,446 +23,257 @@
 
 ## `> whoami`
 
-Je construis des outils, des machines et des systèmes destinés à résoudre des problèmes qui n’avaient parfois pas encore compris qu’ils en étaient.
+Je construis des outils, des machines et des systèmes destinés à résoudre des problèmes qui n'avaient parfois pas encore compris qu'ils en étaient.
 
-Mon terrain de jeu se trouve quelque part entre :
+Je suis docteur en physique, développeur par nécessité, expérimentateur par tempérament et maker par incapacité chronique à accepter qu'un objet soit « non réparable ».
 
-* le développement logiciel ;
-* l’intelligence artificielle ;
-* l’électronique embarquée ;
-* l’administration de serveurs ;
-* la conception mécanique ;
-* l’instrumentation scientifique ;
-* la mécanique des fluides ;
-* l’automatisation ;
-* l’impression 3D ;
-* et cette zone délicieusement douteuse où une idée absurde commence soudainement à fonctionner.
+Mon territoire naturel se trouve entre la thermomécanique, les matériaux, l'instrumentation, le calcul scientifique, le traitement de signaux, l'électronique et cette zone délicieusement douteuse où une idée absurde commence soudainement à fonctionner.
 
-Je ne suis pas particulièrement fidèle à une technologie.
+Je ne suis pas fidèle à une technologie. Je choisis celle qui acceptera de faire ce que je lui demande avec le moins de résistance possible.
 
-Je choisis celle qui acceptera de faire ce que je lui demande avec le moins de résistance possible. Lorsqu’elle résiste, je lis la documentation. Lorsqu’elle résiste encore, je démonte.
+Lorsqu'elle résiste, je lis la documentation.
 
-Je développe principalement pour répondre à mes propres besoins : automatiser une tâche, mesurer un phénomène, exploiter des données, piloter un appareil, surveiller une installation ou remplacer une solution commerciale trop chère, trop limitée ou manifestement conçue par quelqu’un qui ne devait pas l’utiliser.
+Lorsqu'elle résiste encore, je démonte.
 
 ---
 
-## `> compétences --verbose`
+## `> compétences --preuves`
 
 <details open>
-<summary><strong>Développement logiciel</strong></summary>
+<summary><strong>Recherche scientifique et problèmes ouverts</strong></summary>
 
 <br>
 
-Je conçois des applications complètes, de l’idée initiale jusqu’au déploiement.
+Mon doctorat m'a appris à rester fonctionnel face à un problème complexe, partiellement documenté et suffisamment long pour développer sa propre personnalité.
 
-**Langages et environnements :**
+Je sais notamment :
 
-* Python ;
-* C et C++ embarqué ;
-* SQL ;
-* Bash ;
-* PowerShell ;
-* HTML et CSS lorsque l’interface exige un peu de discipline ;
-* LaTeX pour les documents qui méritent mieux qu’un traitement de texte.
+- transformer une question floue en hypothèses vérifiables ;
+- lire la littérature sans confondre une conclusion avec une promesse ;
+- concevoir un protocole et ses critères de validation ;
+- exploiter des données imparfaites sans leur faire avouer ce qu'elles ne savent pas ;
+- estimer les incertitudes et documenter les limites ;
+- confronter théorie, simulation, expérience et observations ;
+- défendre un résultat, mais aussi reconnaître quand il reste une hypothèse ;
+- maintenir la cohérence d'un projet pendant plusieurs années ;
+- rédiger, présenter et répondre à une évaluation scientifique.
 
-**Applications et architecture :**
-
-* interfaces Streamlit ;
-* séparation entre interface, logique métier et accès aux données ;
-* applications modulaires ;
-* validation des entrées ;
-* gestion des erreurs ;
-* journalisation ;
-* génération automatisée de documents ;
-* export en PDF, CSV ou formats métier ;
-* scripts de maintenance et d’administration ;
-* automatisation de tâches répétitives ;
-* tests unitaires ;
-* reprise et amélioration de projets existants.
-
-J’aime particulièrement transformer un empilement de fichiers, de feuilles de calcul et de procédures manuelles en une application cohérente qui fait enfin ce qu’on lui demande.
+Je peux passer plusieurs jours à comprendre pourquoi une expérience refuse de se comporter comme prévu, avant de découvrir qu'un câble, une unité ou une condition aux limites avait pris le contrôle du projet.
 
 </details>
 
 <details open>
-<summary><strong>Bases de données et gestion de données</strong></summary>
+<summary><strong>Thermique, mécanique et matériaux</strong></summary>
 
 <br>
 
-* MariaDB et MySQL ;
-* SQLite ;
-* modélisation relationnelle ;
-* conception de schémas ;
-* clés étrangères et intégrité référentielle ;
-* migrations ;
-* sauvegardes et restaurations ;
-* requêtes complexes ;
-* importation et nettoyage de données ;
-* historisation ;
-* génération de jeux de données ;
-* intégration entre applications et bases existantes.
+Mes travaux attestent une pratique solide de :
 
-Je préfère les données correctement structurées.
+- thermodynamique appliquée et bilans d'énergie ;
+- transferts thermiques par conduction, convection et rayonnement ;
+- thermomécanique et contraintes d'origine thermique ;
+- mécanique et rupture de matériaux fragiles ;
+- flexion quatre points ;
+- analyse exergétique ;
+- microscopie et analyse de faciès de rupture ;
+- modèles probabilistes de rupture ;
+- dimensionnement de composants thermiques et hydrauliques.
 
-Je sais néanmoins travailler avec les autres, celles qui arrivent en retard, mal nommées, dupliquées et légèrement honteuses de leur propre existence.
+J'aime particulièrement le moment où un champ de température, une contrainte mécanique et une fissure décident enfin de raconter la même histoire.
 
 </details>
 
 <details open>
-<summary><strong>Intelligence artificielle et vision par ordinateur</strong></summary>
+<summary><strong>Expérimentation et instrumentation</strong></summary>
 
 <br>
 
-* constitution et nettoyage de jeux de données ;
-* pré-étiquetage ;
-* validation manuelle ;
-* classification d’images ;
-* classification multi-étiquette ;
-* apprentissage supervisé ;
-* transfert d’apprentissage ;
-* augmentation de données ;
-* séparation entraînement, validation et test ;
-* analyse des faux positifs et faux négatifs ;
-* matrices de confusion ;
-* précision, rappel et score F1 ;
-* réglage des seuils de décision ;
-* entraînement local sur GPU ;
-* comparaison d’architectures ;
-* intégration des modèles dans des applications utilisables.
-
-Architectures et familles déjà manipulées :
-
-* ConvNeXt ;
-* ResNet ;
-* EfficientNet ;
-* modèles de vision issus de bibliothèques modernes ;
-* modèles de langage locaux ou distants ;
-* pipelines mêlant données structurées, images et texte.
-
-Je ne considère pas qu’un modèle « fonctionne » parce qu’il affiche un joli pourcentage.
-
-Je veux savoir ce qu’il a réellement appris, dans quelles conditions il se trompe et combien de temps il lui faudra avant de décider qu’une feuille, un mur et une tache de café appartiennent à la même classe.
-
-</details>
-
-<details>
-<summary><strong>Électronique et systèmes embarqués</strong></summary>
-
-<br>
-
-* Arduino ;
-* ATtiny ;
-* ESP32 ;
-* microcontrôleurs AVR ;
-* PlatformIO ;
-* programmation ISP ;
-* communications série ;
-* SPI ;
-* I²C ;
-* capteurs analogiques et numériques ;
-* capteurs de température, pression, humidité, luminosité et mouvement ;
-* relais, MOSFET et commande de charges ;
-* alimentation et régulation ;
-* filtrage et découplage ;
-* temporisations ;
-* machines à états ;
-* mise en veille et réduction de la consommation ;
-* diagnostic à l’oscilloscope et au multimètre ;
-* soudure et reprise de cartes.
-
-Je conçois également des circuits imprimés sous KiCad :
-
-* schémas électroniques ;
-* choix des composants ;
-* empreintes ;
-* placement ;
-* routage ;
-* plans de masse ;
-* règles de conception ;
-* fichiers Gerber ;
-* nomenclatures ;
-* préparation pour fabrication industrielle.
-
-Les prototypes sur plaque d’essai ont leur charme.
-
-Les circuits imprimés bien dessinés ont simplement davantage de tenue.
-
-</details>
-
-<details>
-<summary><strong>Linux, serveurs et auto-hébergement</strong></summary>
-
-<br>
-
-* administration Linux ;
-* Debian et Ubuntu ;
-* Docker ;
-* Docker Compose ;
-* déploiement et reconstruction de conteneurs ;
-* services systemd ;
-* reverse proxy ;
-* réseaux locaux ;
-* accès distant sécurisé ;
-* Tailscale ;
-* gestion des ports ;
-* partages et montages de disques ;
-* permissions et utilisateurs ;
-* surveillance des services ;
-* diagnostic de pannes ;
-* maintenance de serveurs auto-hébergés.
-
-Services et usages habituels :
-
-* stockage personnel ;
-* applications métier ;
-* bases de données ;
-* services web ;
-* sauvegardes ;
-* domotique ;
-* vidéosurveillance ;
-* outils internes accessibles sur réseau local ou privé.
-
-Je préfère héberger mes propres services.
-
-Non par méfiance excessive, mais parce que « le nuage » reste souvent l’ordinateur de quelqu’un d’autre, accompagné d’un abonnement et d’une envie troublante de fouiller dans mes données.
-
-</details>
-
-<details>
-<summary><strong>Sauvegarde, synchronisation et résilience</strong></summary>
-
-<br>
-
-* Restic ;
-* Backrest ;
-* Rsync ;
-* sauvegardes incrémentales ;
-* déduplication ;
-* chiffrement ;
-* politiques de rétention ;
-* sauvegardes locales et distantes ;
-* synchronisation entre serveurs ;
-* sauvegarde de bases MariaDB ;
-* restauration complète ou sélective ;
-* vérification des dépôts ;
-* scénarios de reprise après panne.
-
-Une sauvegarde non testée n’est pas une sauvegarde.
-
-C’est une croyance religieuse stockée sur un disque dur.
-
-</details>
-
-<details>
-<summary><strong>Conception mécanique, CAO et fabrication</strong></summary>
-
-<br>
-
-* modélisation paramétrique ;
-* conception de pièces fonctionnelles ;
-* boîtiers électroniques ;
-* supports ;
-* adaptateurs ;
-* assemblages ;
-* tolérances ;
-* jeux fonctionnels ;
-* intégration de roulements, vis, inserts et composants ;
-* préparation pour impression 3D ;
-* prototypage et itérations rapides.
-
-**Impression 3D :**
-
-* FDM ;
-* réglage des paramètres ;
-* choix des matériaux ;
-* optimisation de l’orientation ;
-* gestion des supports ;
-* pièces multicolores ;
-* résistance mécanique ;
-* ajustements dimensionnels ;
-* intégration directe de pièces imprimées dans des systèmes réels.
-
-Je n’imprime pas uniquement des figurines décoratives.
-
-J’imprime surtout les pièces que le commerce refuse obstinément de vendre parce qu’il n’avait pas prévu mon problème très spécifique.
-
-</details>
-
-<details>
-<summary><strong>Physique, calcul scientifique et instrumentation</strong></summary>
-
-<br>
-
-Formation scientifique avancée avec une préférence marquée pour les phénomènes qui peuvent être mesurés, modélisés puis comparés à la réalité.
-
-Domaines familiers :
-
-* mécanique des fluides ;
-* équations de conservation ;
-* équations de Navier-Stokes ;
-* diffusion ;
-* convection ;
-* viscosité ;
-* régimes laminaires et turbulents ;
-* pertes de charge ;
-* écoulements internes et externes ;
-* analyse dimensionnelle ;
-* traitement de mesures ;
-* incertitudes expérimentales ;
-* acquisition de données.
-
-**Simulation numérique :**
-
-* CFD ;
-* préparation de géométries ;
-* maillage ;
-* définition des conditions aux limites ;
-* choix des modèles physiques ;
-* convergence ;
-* analyse des champs de vitesse et de pression ;
-* confrontation entre simulation et mesures.
-
-**Instrumentation :**
-
-* sondes de pression ;
-* tubes de Pitot ;
-* prises statiques ;
-* capteurs différentiels ;
-* calibration ;
-* filtrage ;
-* acquisition et exploitation des signaux.
+- conception, reprise et amélioration de bancs expérimentaux ;
+- émission acoustique et contrôle non destructif ;
+- force, déformation, température et flux ;
+- thermocouples, pyrométrie et caméra infrarouge ;
+- acquisition multivoie synchronisée ou continue ;
+- tests de référence, bruit de fond et vérification du couplage ;
+- filtrage analogique et numérique ;
+- diagnostic de parasites, dérives, échos et saturations ;
+- conception de supports, gabarits et modules de régulation ;
+- analyse d'incertitudes et répétabilité.
 
 Je fais confiance aux mesures.
 
-Je fais simplement davantage confiance aux mesures dont j’ai vérifié le capteur, le montage, le zéro, l’échelle, la température, l’alimentation et l’état psychologique de la personne qui les a relevées.
+Je fais simplement davantage confiance à celles dont j'ai vérifié le capteur, le montage, le zéro, l'échelle, la synchronisation, l'alimentation et l'humeur générale de la chaîne d'acquisition.
+
+</details>
+
+<details open>
+<summary><strong>Simulation numérique et calcul scientifique</strong></summary>
+
+<br>
+
+- modèles thermiques et thermomécaniques ;
+- géométries, maillages et groupes de surfaces ;
+- propriétés dépendant de la température ;
+- conditions aux limites, échanges et chargements ;
+- thermique non linéaire et mécanique statique ;
+- études paramétriques ;
+- comparaison calcul-expérience ;
+- post-traitement de champs, contraintes et probabilités de rupture.
+
+Outils réellement présents dans mon parcours :
+
+- COMSOL Multiphysics ;
+- Salome-Meca ;
+- Code_Aster ;
+- EES ;
+- Python scientifique.
+
+Je sais aussi reconnaître une simulation qui converge très proprement vers une absurdité. C'est une compétence plus utile qu'elle n'en a l'air.
+
+</details>
+
+<details open>
+<summary><strong>Python, données et apprentissage automatique</strong></summary>
+
+<br>
+
+J'utilise Python pour comprendre des phénomènes, automatiser les tâches ingrates et rendre les données fréquentables.
+
+- NumPy, pandas, SciPy et Matplotlib ;
+- import, nettoyage, conversion et visualisation de mesures ;
+- régressions, interpolation et calcul de descripteurs ;
+- FFT, filtres, transformées en ondelettes et fenêtres glissantes ;
+- ACP, clustering et comparaison d'indices de validité ;
+- scikit-learn ;
+- PyTorch et autoencodeurs convolutionnels 1D ;
+- détection d'événements par erreur de reconstruction ;
+- pipelines adaptés à des acquisitions de plusieurs centaines de gigaoctets ;
+- MariaDB/MySQL pour rendre des séries expérimentales accessibles et interrogeables.
+
+Je ne considère pas qu'un modèle fonctionne parce qu'il affiche un joli score. Je veux savoir ce qu'il a appris, quand il se trompe et quelle partie du bruit il prend secrètement pour une révélation.
+
+</details>
+
+<details open>
+<summary><strong>LaTeX, typographie et documents techniques</strong></summary>
+
+<br>
+
+LaTeX n'est pas pour moi un moyen compliqué d'écrire du texte. C'est un moyen raisonnable d'éviter qu'un logiciel décide qu'une équation mérite de traverser la marge.
+
+- manuscrits, rapports, articles, posters et présentations ;
+- documents longs structurés avec parties incluses ;
+- LuaLaTeX, commandes et environnements personnalisés ;
+- styles de pages, titres, tableaux et unités ;
+- BibLaTeX et Biber ;
+- références croisées, index et nomenclatures ;
+- TikZ, CircuitikZ, PGFPlots et graphiques alimentés par des données ;
+- Beamer et classes personnalisées ;
+- externalisation des figures et automatisation de la compilation.
+
+J'accorde une importance probablement excessive à l'alignement des décimales, aux espaces insécables et au fait qu'une présentation ne ressemble pas à une prise d'otage sous PowerPoint.
 
 </details>
 
 <details>
-<summary><strong>Documentation et transmission</strong></summary>
+<summary><strong>Enseignement et transmission</strong></summary>
 
 <br>
 
-* rédaction technique ;
-* README détaillés ;
-* procédures d’installation ;
-* documentation de maintenance ;
-* schémas ;
-* plans cotés ;
-* rapports scientifiques ;
-* présentations ;
-* documents LaTeX ;
-* explication de concepts complexes ;
-* transformation d’un projet personnel en ensemble reproductible.
+J'ai conçu des cours, rappels, séries d'exercices, contrôles, rattrapages, corrigés et supports de travaux pratiques en physique-chimie et en mathématiques.
+
+Le corpus montre notamment :
+
+- progressions adaptées au niveau ;
+- exercices gradués et variantes de sujets ;
+- corrections expérimentales ;
+- bilans individualisés ;
+- automatisation ponctuelle de sujets ou de calculs ;
+- communication scientifique en français et en anglais.
+
+Expliquer un résultat complexe sans le déformer est une forme d'ingénierie. Le matériau de départ résiste parfois davantage qu'une céramique.
+
+</details>
+
+<details>
+<summary><strong>Atelier personnel : code, électronique, serveurs et fabrication</strong></summary>
+
+<br>
+
+En dehors du laboratoire, je continue naturellement à compliquer ma vie :
+
+- applications Python, interfaces Streamlit et bases SQL ;
+- automatisation, exports, documentation et reprise de projets existants ;
+- Arduino, ESP32, AVR, capteurs, relais, MOSFET, SPI et I²C ;
+- schémas et circuits imprimés sous KiCad ;
+- Linux, Docker, services, réseaux, accès distant et auto-hébergement ;
+- sauvegardes avec Restic, Backrest et Rsync ;
+- CAO paramétrique, FreeCAD, OpenSCAD et impression 3D FDM ;
+- pièces fonctionnelles, boîtiers, supports et adaptateurs ;
+- classification d'images et intégration de modèles dans des outils utilisables.
 
 Un projet sans documentation peut parfaitement fonctionner.
 
-Une fois.
-
-Sur la machine de son auteur.
-
-Un soir de pleine lune.
+Une fois. Sur la machine de son auteur. Un soir de pleine lune.
 
 </details>
 
 ---
 
-## `> stack`
+## `> force --raw`
 
-<div align="center">
+Je passe beaucoup de temps devant des écrans, mais je refuse que mon corps devienne un simple support de clavier.
 
-### Logiciel
+| Mouvement | Maximum |
+|:--|--:|
+| Soulevé de terre | **170 kg** |
+| Squat | **160 kg** |
+| Développé couché | **105 kg** |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square\&logo=latex\&logoColor=white)
+J'aime la franchise d'une barre lourde qui ne négocie pas.
 
-### Systèmes
+Le code accepte parfois un contournement.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square\&logo=debian\&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square\&logo=tailscale\&logoColor=white)
-
-### Matériel
-
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square\&logo=arduino\&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square\&logo=platformio\&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square\&logo=kicad\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square\&logo=raspberrypi\&logoColor=white)
-
-</div>
+La gravité, rarement.
 
 ---
 
-## `> projets`
+## `> jeux`
 
-### [Gestionnaire de locations](https://github.com/Lafeeleonie/gestionnaire_location)
+Je joue pour les mêmes raisons que je construis : comprendre un système, tester ses limites et optimiser ce qui peut l'être.
 
-Application auto-hébergée de gestion locative développée en Python.
+J'aime les jeux de rôle, les univers sombres ou moralement ambigus, la stratégie, les combats exigeants et les décisions anodines qui reviennent mordre plusieurs heures plus tard.
 
-Fonctions principales :
+Je choisis volontiers le rôle de tank. Prendre les coups pendant que les autres s'agitent possède une certaine élégance.
 
-* gestion des biens et des locataires ;
-* suivi des baux ;
-* génération de documents ;
-* quittances de loyer ;
-* suivi des règlements ;
-* stockage structuré des informations ;
-* base de données MariaDB ;
-* déploiement sous Docker ;
-* sauvegardes automatisées.
-
-Le genre d’application qui évite de chercher un document pendant quarante minutes avant de découvrir qu’il était enregistré sous `document_final_v2_bon_definitif.pdf`.
+Je peux passer beaucoup trop de temps à optimiser un build pour quelques pour cent d'efficacité. Je considère cela comme de la recherche appliquée.
 
 ---
 
-### [Créateur d’étiquettes](https://github.com/Lafeeleonie/label_creator)
+## `> philosophie`
 
-Outil Streamlit permettant de concevoir et de générer des étiquettes techniques prêtes à être imprimées.
+Je m'intéresse au fonctionnement des machines, mais aussi à ce qui pousse les êtres humains à les construire : le sens de la vie, la liberté, la mort, l'identité, la conscience, le désir et le rapport entre le corps et l'esprit.
 
-Le projet mêle :
+Je ne crois pas que la vie doive être propre, sage ou parfaitement cohérente pour avoir de la valeur. Je crois davantage à l'intensité, à la curiosité, à la création, à la transmission et à la capacité de donner une forme à ce qui nous traverse.
 
-* interface graphique ;
-* génération de PDF ;
-* mise en page dynamique ;
-* réglage précis des dimensions ;
-* choix des polices ;
-* gestion des marges ;
-* automatisation d’un travail autrement répétitif.
+J'aime réfléchir sérieusement aux grandes questions, puis interrompre la discussion pour réparer une pompe, compiler un programme ou soulever quelque chose de déraisonnablement lourd.
 
-Parce qu’écrire vingt fois la même chose à la main manque singulièrement de sensualité.
+La métaphysique gagne parfois à être pratiquée avec une clef de 13 à la main.
 
 ---
 
-### [Veilleuse à détection de mouvement sur ATtiny85](https://github.com/Lafeeleonie/motion_activated_night_light_attiny85)
+## `> désir`
 
-Système embarqué compact comprenant :
+Le sexe m'intéresse comme langage, vertige, jeu de pouvoir, besoin physique et étrange point de rencontre entre la biologie, l'imaginaire et la vulnérabilité.
 
-* détection de mouvement ;
-* mesure de luminosité ;
-* temporisation ;
-* commande d’éclairage ;
-* microcontrôleur ATtiny85 ;
-* circuit imprimé personnalisé ;
-* boîtier imprimé en 3D ;
-* documentation permettant la reproduction du montage.
+Je ne sépare pas totalement l'intelligence du désir. J'aime ce qui stimule l'esprit, ce qui résiste, ce qui oblige à comprendre, ce qui réclame de la précision — et ce qui finit parfois par céder sous une pression correctement appliquée.
 
-Un petit objet simple, discret, autonome et obéissant.
+Ce profil reste techniquement consacré au code.
 
-Tout ce que j’aime.
+Techniquement.
 
 ---
 
 ## `> méthode`
-
-Mon processus de travail ressemble généralement à ceci :
 
 ```text
 Observer un problème
@@ -474,72 +286,31 @@ La trouver trop chère, trop limitée ou trop laide
         ↓
 Dire « ce ne doit pas être si compliqué »
         ↓
-Créer un dépôt Git
-        ↓
 Sous-estimer violemment le projet
+        ↓
+Apprendre plusieurs technologies imprévues
         ↓
 Le terminer tout de même
 ```
 
-Je privilégie :
+Je privilégie les solutions compréhensibles, les systèmes réparables, les formats ouverts, les sauvegardes restaurables, le matériel démontable, le code encore lisible six mois plus tard et les idées que l'on peut tester.
 
-* les solutions compréhensibles ;
-* les systèmes réparables ;
-* les formats ouverts ;
-* les outils auto-hébergés ;
-* la documentation utile ;
-* les sauvegardes restaurables ;
-* le matériel que l’on peut démonter ;
-* le code que l’on peut encore relire six mois plus tard.
-
-Je supporte moins bien :
-
-* les abonnements pour des fonctions élémentaires ;
-* les applications qui exigent un compte pour allumer une ampoule ;
-* les dépendances inutiles ;
-* les interfaces qui cachent les fonctions importantes ;
-* les données enfermées dans un service inaccessible ;
-* les machines qui prétendent ne pas être réparables ;
-* les erreurs silencieuses ;
-* les câbles Dupont qui se débranchent dès qu’on les regarde.
-
----
-
-## `> philosophie`
-
-Je ne cherche pas à maîtriser chaque technologie existante.
-
-Je cherche à comprendre suffisamment vite celles dont j’ai besoin pour construire ce que j’ai en tête.
-
-Cela implique parfois de développer une application.
-
-Parfois de dessiner une carte électronique.
-
-Parfois de calculer un écoulement, d’imprimer une pièce, de configurer un serveur et de souder un capteur sur le même projet.
-
-Je ne me spécialise pas dans un outil.
-
-Je me spécialise dans le moment où quelqu’un dit :
-
-> « Ce serait pratique, mais je ne crois pas que ce soit possible. »
-
-C’est généralement là que je commence à avoir envie de jouer.
+Je supporte moins bien les abonnements pour des fonctions élémentaires, les erreurs silencieuses, les câbles Dupont qui se débranchent dès qu'on les regarde et les certitudes qui n'ont jamais rencontré une expérience contradictoire.
 
 ---
 
 ## `> avertissement`
 
-Certains projets présents ici sont parfaitement raisonnables.
+Certains dépôts présents ici sont parfaitement raisonnables.
 
 Les autres ont probablement commencé par :
 
-* « techniquement… » ;
-* « en théorie… » ;
-* « j’ai peut-être une idée… » ;
-* ou le particulièrement dangereux :
-  **« Attends, ne touche à rien. »**
+- « techniquement… » ;
+- « en théorie… » ;
+- « j'ai peut-être une idée… » ;
+- ou le particulièrement dangereux : **« Attends, ne touche à rien. »**
 
-Les dépôts peuvent contenir du code, des schémas, des fichiers de fabrication, des modèles 3D, des procédures de déploiement et divers témoignages numériques d’un rapport à la curiosité qui mériterait probablement une surveillance.
+Ce profil peut contenir du code, des équations, des cartes électroniques, des simulations, des pièces imprimées, des serveurs auto-hébergés, des charges lourdes, quelques considérations existentielles et une légère tendance à trouver les contraintes excitantes.
 
 Utilisation à vos risques et périls.
 
@@ -553,10 +324,10 @@ Excitation intellectuelle probable.
 
 ### Je fabrique des outils pour résoudre mes problèmes.
 
-### Il se trouve simplement que j’ai beaucoup de problèmes intéressants.
+### Il se trouve simplement que j'ai beaucoup de problèmes intéressants.
 
 <br>
 
-`Code propre.` · `Matériel ouvert.` · `Documentation complète.` · `Intentions discutables.`
+`Code propre.` | `Mesures vérifiées.` | `Matériel ouvert.` | `Corps entraîné.` | `Intentions discutables.`
 
 </div>

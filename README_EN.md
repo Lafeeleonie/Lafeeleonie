@@ -385,7 +385,7 @@ I mostly print parts that shops stubbornly refuse to sell because they failed to
 </details>
 
 <details>
-<summary><strong>Documentation and knowledge transfer</strong></summary>
+<summary><strong>Teaching, documentation and knowledge transfer</strong></summary>
 
 <br>
 
@@ -399,6 +399,12 @@ I mostly print parts that shops stubbornly refuse to sell because they failed to
 - presentations;
 - explaining complex concepts;
 - turning a personal project into something reproducible.
+
+I have also designed courses, exercises, practical-work corrections and assessments in physics, chemistry and mathematics.
+
+When answers started travelling a little too efficiently, I chose technological escalation: a Python and LaTeX generator producing 35 individual papers with the same assessment structure, but sampled and reordered questions, different numerical values, and a matching table of expected numerical solutions.
+
+Thirty-five pupils, thirty-five papers, no particularly useful neighbour. My pupils thought I was mad. They were not entirely wrong. Pedagogy through algorithmic deterrence.
 
 An undocumented project can work perfectly well.
 

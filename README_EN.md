@@ -219,7 +219,8 @@ Outside the laboratory, I naturally continue to make my own life more complicate
 - schematics and printed circuit boards designed with KiCad;
 - Linux, Docker, services, networks, remote access and self-hosting;
 - backups with Restic, Backrest and Rsync;
-- parametric CAD, FreeCAD, OpenSCAD and FDM 3D printing;
+- parametric CAD, Fusion360 and FDM 3D printing;
+- 3D models, functional parts and other solutions far too specific to exist commercially, published on [Printables](https://www.printables.com/@Lafeeleonie_453412);
 - functional parts, enclosures, supports and adapters;
 - image classification and integration of models into usable tools.
 
@@ -341,5 +342,15 @@ Intellectual arousal likely.
 <br>
 
 `Clean code.` | `Verified measurements.` | `Open hardware.` | `Trained body.` | `Questionable intentions.`
+
+</div>
+
+---
+
+<div align="center">
+
+### Elsewhere
+
+[Printables](https://www.printables.com/@Lafeeleonie_453412) · [GitHub](https://github.com/Lafeeleonie)
 
 </div>

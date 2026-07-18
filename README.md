@@ -219,7 +219,8 @@ En dehors du laboratoire, je continue naturellement à compliquer ma vie :
 - schémas et circuits imprimés sous KiCad ;
 - Linux, Docker, services, réseaux, accès distant et auto-hébergement ;
 - sauvegardes avec Restic, Backrest et Rsync ;
-- CAO paramétrique, FreeCAD, OpenSCAD et impression 3D FDM ;
+- CAO paramétrique, Fusion360 et impression 3D FDM ;
+- modèles 3D, pièces fonctionnelles et autres solutions trop spécifiques pour exister dans le commerce, publiés sur [Printables](https://www.printables.com/@Lafeeleonie_453412) ;
 - pièces fonctionnelles, boîtiers, supports et adaptateurs ;
 - classification d'images et intégration de modèles dans des outils utilisables.
 
@@ -341,5 +342,15 @@ Excitation intellectuelle probable.
 <br>
 
 `Code propre.` | `Mesures vérifiées.` | `Matériel ouvert.` | `Corps entraîné.` | `Intentions discutables.`
+
+</div>
+
+---
+
+<div align="center">
+
+### Elsewhere
+
+[Printables](https://www.printables.com/@Lafeeleonie_453412) · [GitHub](https://github.com/Lafeeleonie)
 
 </div>

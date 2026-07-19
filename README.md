@@ -177,7 +177,7 @@ J'accorde une importance probablement excessive à l'alignement des décimales, 
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Enseignement, transmission et dissuasion algorithmique</strong></summary>
 
 <br>
@@ -206,7 +206,7 @@ Expliquer un résultat complexe sans le déformer est une forme d'ingénierie.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Atelier personnel : code, électronique, serveurs et fabrication</strong></summary>
 
 <br>

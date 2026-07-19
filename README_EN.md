@@ -177,7 +177,7 @@ I probably care too much about aligned decimals, non-breaking spaces and making 
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Teaching, knowledge transfer and algorithmic deterrence</strong></summary>
 
 <br>
@@ -206,7 +206,7 @@ Explaining a complex result without distorting it is a form of engineering.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Personal workshop: code, electronics, servers and fabrication</strong></summary>
 
 <br>

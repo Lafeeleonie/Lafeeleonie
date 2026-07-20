@@ -214,6 +214,7 @@ Explaining a complex result without distorting it is a form of engineering.
 Outside the laboratory, I naturally continue to make my own life more complicated:
 
 - Python applications, Streamlit interfaces and SQL databases;
+- install and maintain a Nextcloud server for my familly;
 - automation, exports, documentation and taking over existing projects;
 - Arduino, ESP32, AVR, sensors, relays, MOSFETs, SPI and I²C;
 - schematics and printed circuit boards designed with KiCad;
@@ -229,6 +230,59 @@ An undocumented project can work perfectly well.
 Once. On its author's machine. During a full moon.
 
 </details>
+
+---
+
+## `> vineyard --terroir --wine`
+
+The vineyard is my open-air laboratory: a living, slow, unpredictable system with remarkably little respect for theoretical schedules.
+
+My work includes:
+
+- vineyard management and disease monitoring;
+- understanding vine diseases and how they evolve;
+- observing plants, climate and soil;
+- optimizing spraying while reducing drift;
+- designing and improving viticultural equipment;
+- airflow and spray pattern analysis;
+- processing agronomic and meteorological data;
+- winemaking, ageing, blending and wine monitoring;
+- bottling, labelling and winery equipment maintenance;
+- direct sales and the technical management of a family wine estate.
+
+I like vineyards because they refuse comfortable certainties.
+
+You can measure, predict, model and plan.
+
+Then it rains.
+
+Or it doesn't.
+
+And suddenly the entire strategy becomes a working hypothesis.
+
+---
+
+## `> forge --steel --fire`
+
+I'm also passionate about metalworking, bladesmithing and blacksmithing.
+
+This includes:
+
+- designing tools and functional parts;
+- forging and shaping steel;
+- heat treatment;
+- hardening and tempering;
+- grinding, beveling and sharpening;
+- handle making and assembly;
+- welding and repairing metal components;
+- fabricating brackets, jigs and functional hardware;
+- experimenting with materials and surface finishes.
+
+There is something uniquely elegant about bladesmithing: starting with an anonymous piece of steel, forcing it into a precise geometry and a useful purpose, only to discover that a few degrees too many can ruin several hours of work.
+
+Steel is unforgiving.
+
+That's probably one of the reasons I enjoy working with it.
 
 ---
 
@@ -323,13 +377,15 @@ The others probably began with:
 - “I might have an idea…”;
 - or the particularly dangerous: **“Wait, do not touch anything.”**
 
-This profile may contain code, equations, circuit boards, simulations, 3D-printed parts, self-hosted servers, heavy weights, a few existential considerations and a slight tendency to find constraints exciting.
+This profile may contain code, equations, electronic circuits, simulations, 3D-printed parts, self-hosted servers, vineyards, wine, steel heated to unreasonable temperatures, heavy weights, a few existential reflections, and a slight tendency to find constraints oddly appealing.
 
 Use at your own risk.
 
 Satisfaction not guaranteed.
 
-Intellectual arousal likely.
+Intellectual stimulation likely.
+
+My natural habitat lies somewhere between thermomechanics, materials science, instrumentation, scientific computing, signal processing, electronics, viticulture, winemaking, and that delightfully questionable place where a ridiculous idea suddenly starts working.
 
 ---
 

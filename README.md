@@ -214,6 +214,7 @@ Expliquer un résultat complexe sans le déformer est une forme d'ingénierie.
 En dehors du laboratoire, je continue naturellement à compliquer ma vie :
 
 - applications Python, interfaces Streamlit et bases SQL ;
+- mise en place et maintenance d'un serveur Nextcloud pour ma famille ; 
 - automatisation, exports, documentation et reprise de projets existants ;
 - Arduino, ESP32, AVR, capteurs, relais, MOSFET, SPI et I²C ;
 - schémas et circuits imprimés sous KiCad ;
@@ -229,7 +230,58 @@ Un projet sans documentation peut parfaitement fonctionner.
 Une fois. Sur la machine de son auteur. Un soir de pleine lune.
 
 </details>
+---
 
+## `> vigne --terroir --vin`
+
+La vigne est mon laboratoire à ciel ouvert : un système vivant, lent, imprévisible et remarquablement peu sensible aux calendriers théoriques.
+
+Je travaille notamment sur :
+
+- la conduite du vignoble et le suivi sanitaire des parcelles ;
+- la compréhension des maladies de la vigne et de leur évolution ;
+- l’observation du végétal, du climat et du sol ;
+- l’optimisation des traitements et la réduction de la dérive ;
+- la conception et l’amélioration de matériel viticole ;
+- l’analyse des flux d’air et de pulvérisation ;
+- l’exploitation de données agronomiques et météorologiques ;
+- la vinification, l’élevage, l’assemblage et le suivi des vins ;
+- le conditionnement, l’étiquetage et la maintenance des équipements de cave ;
+- la vente directe et la gestion technique d’un domaine viticole.
+
+J’aime la vigne parce qu’elle interdit les certitudes trop confortables.
+
+On peut mesurer, prévoir, modéliser et planifier.
+
+Puis il pleut.
+
+Ou il ne pleut pas.
+
+Et toute la stratégie devient soudain une hypothèse de travail.
+
+---
+
+## `> forge --acier --feu`
+
+Je m’intéresse également au travail du métal, à la coutellerie et à la ferronnerie.
+
+Cela inclut notamment :
+
+- la conception de pièces et d’outils ;
+- le forgeage et la mise en forme de l’acier ;
+- les traitements thermiques ;
+- la trempe et le revenu ;
+- le meulage, l’émouture et l’affûtage ;
+- la fabrication de manches et d’assemblages ;
+- la soudure et la reprise de pièces métalliques ;
+- la réalisation de supports, gabarits et éléments fonctionnels ;
+- l’expérimentation sur les matériaux et les états de surface.
+
+La coutellerie possède une élégance particulière : partir d’un morceau d’acier informe, lui imposer une géométrie, une structure et une fonction, puis découvrir que quelques degrés de trop peuvent ruiner plusieurs heures de travail.
+
+Le métal pardonne peu.
+
+C’est probablement pour cela que je l’aime bien.
 ---
 
 ## `> force --raw`
@@ -323,13 +375,15 @@ Les autres ont probablement commencé par :
 - « j'ai peut-être une idée… » ;
 - ou le particulièrement dangereux : **« Attends, ne touche à rien. »**
 
-Ce profil peut contenir du code, des équations, des cartes électroniques, des simulations, des pièces imprimées, des serveurs auto-hébergés, des charges lourdes, quelques considérations existentielles et une légère tendance à trouver les contraintes excitantes.
+Ce profil peut contenir du code, des équations, des cartes électroniques, des simulations, des pièces imprimées, des serveurs auto-hébergés, des vignes, du vin, de l’acier chauffé à des températures déraisonnables, des charges lourdes, quelques considérations existentielles et une légère tendance à trouver les contraintes excitantes.
 
 Utilisation à vos risques et périls.
 
 Satisfaction non garantie.
 
 Excitation intellectuelle probable.
+
+Mon territoire naturel se trouve entre la thermomécanique, les matériaux, l’instrumentation, le calcul scientifique, le traitement de signaux, l’électronique, la viticulture, la vinification et cette zone délicieusement douteuse où une idée absurde commence soudainement à fonctionner.
 
 ---
 

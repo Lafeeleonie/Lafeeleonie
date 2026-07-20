@@ -230,6 +230,7 @@ Un projet sans documentation peut parfaitement fonctionner.
 Une fois. Sur la machine de son auteur. Un soir de pleine lune.
 
 </details>
+
 ---
 
 ## `> vigne --terroir --vin`
@@ -282,6 +283,7 @@ La coutellerie possède une élégance particulière : partir d’un morceau d�
 Le métal pardonne peu.
 
 C’est probablement pour cela que je l’aime bien.
+
 ---
 
 ## `> force --raw`

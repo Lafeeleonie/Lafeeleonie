@@ -407,6 +407,6 @@ Mon territoire naturel se trouve entre la thermomécanique, les matériaux, l’
 
 ### Elsewhere
 
-[Printables](https://www.printables.com/@Lafeeleonie_453412) · [GitHub](https://github.com/Lafeeleonie)
+[Printables](https://www.printables.com/@Lafeeleonie_453412) · [BuyMeACoffee](https://buymeacoffee.com/lafeeleonie) · [GitHub](https://github.com/Lafeeleonie) 
 
 </div>

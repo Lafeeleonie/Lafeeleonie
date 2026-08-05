@@ -407,6 +407,6 @@ My natural habitat lies somewhere between thermomechanics, materials science, in
 
 ### Elsewhere
 
-[Printables](https://www.printables.com/@Lafeeleonie_453412) · [GitHub](https://github.com/Lafeeleonie)
+[Printables](https://www.printables.com/@Lafeeleonie_453412) · [BuyMeACoffee](https://buymeacoffee.com/lafeeleonie) · [GitHub](https://github.com/Lafeeleonie) 
 
 </div>

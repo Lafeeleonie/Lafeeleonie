@@ -65,7 +65,7 @@ I can spend several days trying to understand why an experiment refuses to behav
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Thermal science, mechanics and materials</strong></summary>
 
 <br>
@@ -86,7 +86,7 @@ I particularly enjoy the moment when a temperature field, a mechanical stress an
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Experimental work and instrumentation</strong></summary>
 
 <br>
@@ -108,7 +108,7 @@ I simply trust them more after checking the sensor, assembly, zero, range, synch
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Numerical simulation and scientific computing</strong></summary>
 
 <br>
@@ -134,7 +134,7 @@ I can also recognise a simulation that converges very neatly towards nonsense. I
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Python, data and machine learning</strong></summary>
 
 <br>
@@ -156,7 +156,7 @@ I do not consider a model to be working merely because it displays a flattering 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>LaTeX, typography and technical documents</strong></summary>
 
 <br>
@@ -177,7 +177,7 @@ I probably care too much about aligned decimals, non-breaking spaces and making 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Teaching, knowledge transfer and algorithmic deterrence</strong></summary>
 
 <br>
@@ -206,7 +206,7 @@ Explaining a complex result without distorting it is a form of engineering.
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Personal workshop: code, electronics, servers and fabrication</strong></summary>
 
 <br>

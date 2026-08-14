@@ -42,7 +42,7 @@ Lorsqu'elle résiste encore, je démonte.
 
 ## `> compétences --preuves`
 
-<details open>
+<details>
 <summary><strong>Recherche scientifique et problèmes ouverts</strong></summary>
 
 <br>
@@ -65,7 +65,7 @@ Je peux passer plusieurs jours à comprendre pourquoi une expérience refuse de 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Thermique, mécanique et matériaux</strong></summary>
 
 <br>
@@ -86,7 +86,7 @@ J'aime particulièrement le moment où un champ de température, une contrainte 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Expérimentation et instrumentation</strong></summary>
 
 <br>
@@ -108,7 +108,7 @@ Je fais simplement davantage confiance à celles dont j'ai vérifié le capteur,
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Simulation numérique et calcul scientifique</strong></summary>
 
 <br>
@@ -134,7 +134,7 @@ Je sais aussi reconnaître une simulation qui converge très proprement vers une
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Python, données et apprentissage automatique</strong></summary>
 
 <br>
@@ -156,7 +156,7 @@ Je ne considère pas qu'un modèle fonctionne parce qu'il affiche un joli score.
 
 </details>
 
-<details open>
+<details>
 <summary><strong>LaTeX, typographie et documents techniques</strong></summary>
 
 <br>
@@ -177,7 +177,7 @@ J'accorde une importance probablement excessive à l'alignement des décimales, 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Enseignement, transmission et dissuasion algorithmique</strong></summary>
 
 <br>
@@ -206,7 +206,7 @@ Expliquer un résultat complexe sans le déformer est une forme d'ingénierie.
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Atelier personnel : code, électronique, serveurs et fabrication</strong></summary>
 
 <br>

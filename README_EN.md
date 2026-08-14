@@ -42,7 +42,7 @@ When it still resists, I take it apart.
 
 ## `> skills --evidence`
 
-<details open>
+<details>
 <summary><strong>Scientific research and open-ended problems</strong></summary>
 
 <br>
